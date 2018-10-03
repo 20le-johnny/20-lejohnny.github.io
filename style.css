@@ -1,0 +1,81 @@
+body {
+    background-color: #1776c4;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: 'Fjalla One', sans-serif;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+}
+
+#nav li a:hover{
+    background-color: purple;
+}
+
+#content{
+    border: solid blue 2px;
+    width: 68%; 
+    margin: auto;
+    margin-top:8px;
+    text-align: center;
+}
+#content ul{
+    width: 10%;
+    margin: auto;
+}
+table{
+    margin:auto;
+}
+#mail{
+    text-decoration: none;
+    color: black;
+}
+#education{
+    text-align: center;
+}
+#major{
+    text-align: center;
+}
+#rc{
+    font-size: 13pt;
+    text-align: left;
+}
+#dateA{
+    float: right;
+}
+#name{
+    text-align: center;
+    font-size: 50pt;
+}
+#additional{
+    text-align: center;
+}
+#ig{
+    text-align: center;
+}
+#insta{
+    width: 50%;
+    height: 70%;
+}
+#plug{
+    text-align: center;
+    font-size: 30pt;
+}
