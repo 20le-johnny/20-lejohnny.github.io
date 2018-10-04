@@ -11,7 +11,7 @@ body {
     margin: -8px;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: rgba(40,42,45,.5)
 }
 
 #nav li {
@@ -72,10 +72,21 @@ table{
     text-align: center;
 }
 #insta{
-    width: 50%;
-    height: 70%;
+    width: 40%;
+    height: 60%;
 }
 #plug{
+    text-align: center;
+    font-size: 30pt;
+}
+#mail{
+    text-align: center;
+}
+#gma{
+    width: 35%;
+    height: 55%;
+}
+#my{
     text-align: center;
     font-size: 30pt;
 }
